@@ -27,10 +27,10 @@ import android.text.Spanned;
 import android.text.format.Formatter;
 import android.util.Log;
 
-import com.jaredrummler.android.processes.models.AndroidAppProcess;
-import com.jaredrummler.android.processes.models.Stat;
-import com.jaredrummler.android.processes.models.Statm;
-import com.jaredrummler.android.processes.models.Status;
+import com.jaredrummler.android.processes.AndroidAppProcess;
+import com.jaredrummler.android.processes.Stat;
+import com.jaredrummler.android.processes.Statm;
+import com.jaredrummler.android.processes.Status;
 import com.jaredrummler.android.processes.sample.utils.HtmlBuilder;
 import com.jaredrummler.android.processes.sample.utils.Utils;
 

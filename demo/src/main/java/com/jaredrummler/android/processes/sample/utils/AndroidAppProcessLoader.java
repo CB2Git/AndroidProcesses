@@ -21,7 +21,7 @@ import android.content.Context;
 import android.os.AsyncTask;
 
 import com.jaredrummler.android.processes.AndroidProcesses;
-import com.jaredrummler.android.processes.models.AndroidAppProcess;
+import com.jaredrummler.android.processes.AndroidAppProcess;
 
 import java.util.Collections;
 import java.util.Comparator;

@@ -24,9 +24,6 @@ import android.content.pm.PackageManager;
 import android.os.Build;
 import android.util.Log;
 
-import com.jaredrummler.android.processes.models.AndroidAppProcess;
-import com.jaredrummler.android.processes.models.AndroidProcess;
-
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

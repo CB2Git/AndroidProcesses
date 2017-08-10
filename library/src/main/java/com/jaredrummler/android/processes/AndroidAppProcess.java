@@ -15,15 +15,13 @@
  *
  */
 
-package com.jaredrummler.android.processes.models;
+package com.jaredrummler.android.processes;
 
 import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 import android.os.Build;
 import android.os.Parcel;
-
-import com.jaredrummler.android.processes.AndroidProcesses;
 
 import java.io.File;
 import java.io.IOException;

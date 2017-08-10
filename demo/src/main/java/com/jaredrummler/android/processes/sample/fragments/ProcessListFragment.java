@@ -23,7 +23,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.ListView;
 
-import com.jaredrummler.android.processes.models.AndroidAppProcess;
+import com.jaredrummler.android.processes.AndroidAppProcess;
 import com.jaredrummler.android.processes.sample.adapter.ProcessListAdapter;
 import com.jaredrummler.android.processes.sample.dialogs.ProcessInfoDialog;
 import com.jaredrummler.android.processes.sample.utils.AndroidAppProcessLoader;

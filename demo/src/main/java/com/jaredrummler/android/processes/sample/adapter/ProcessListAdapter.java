@@ -27,7 +27,7 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.jaredrummler.android.processes.models.AndroidAppProcess;
+import com.jaredrummler.android.processes.AndroidAppProcess;
 import com.jaredrummler.android.processes.sample.R;
 import com.jaredrummler.android.processes.sample.utils.Utils;
 import com.squareup.picasso.Picasso;

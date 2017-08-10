@@ -28,7 +28,7 @@ import android.graphics.drawable.Drawable;
 import android.graphics.drawable.PictureDrawable;
 import android.util.TypedValue;
 
-import com.jaredrummler.android.processes.models.AndroidAppProcess;
+import com.jaredrummler.android.processes.AndroidAppProcess;
 
 public class Utils {
 
